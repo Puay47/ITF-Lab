@@ -1,3 +1,4 @@
 #ITF-lab 2022
 
-##จารุพงศ์ ทองมาก 65070031
+## Author
+Jarupong Thongmark 65070031
